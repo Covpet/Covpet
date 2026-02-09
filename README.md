@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ojo Covenant
+- 👋 Hi, My name Covenant Ojo
 - 👀 I’m interested in Data Analysis, Science, Mining and Visualization
 - 🌱 I am a  MSc Data Science Graduate and a BSc Statistics Graduate
 - 💞️ I’m looking to collaborate on different projects that will optimize my learning
