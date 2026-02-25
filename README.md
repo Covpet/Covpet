@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Covenant Ojo
 - 👀 I’m interested in Data Analysis, Science, Mining and Visualization
-- 🌱 I am a  MSc Data Science Graduate and a BSc Statistics Graduate
-- 💞️ I’m looking to collaborate on different projects that will optimize my learning
+- 🌱 I Have my MSc in Data Science Graduate and BSc in Statistics
+- 💞️ I’m looking to collaborate on different projects that will optimize my learning and skills
 - 📫 How to reach me ... email: ojocovenant2003@gmail.com
 - 😄 Pronouns: He 
 - ⚡ Fun fact: I am jovial, loves music and taking pictures
